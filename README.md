@@ -6,7 +6,7 @@
 ### Language
 
 ![Static Badge](https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=white&color=3776AB)
-![Static Badge](https://img.shields.io/badge/Java-%20?style=flat-square&logo=openjdk&logoColor=white&color=a57829)
+![Static Badge](https://img.shields.io/badge/Java-%20?style=flat-square&logo=openjdk&logoColor=white&color=000000)
 ![Static Badge](https://img.shields.io/badge/HTML5-%20?style=flat-square&logo=html5&logoColor=white&color=E34F26)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%20?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)
 ![Static Badge](https://img.shields.io/badge/Vue3-%20?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
