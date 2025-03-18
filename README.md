@@ -12,6 +12,6 @@
 ![Static Badge](https://img.shields.io/badge/Vue3-%20?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
 ![Static Badge](https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=1572B6)
 ![Static Badge](https://img.shields.io/badge/Node.js-%20?style=flat-square&logo=nodedotjs&logoColor=white&color=339933)
-![Static Badge](https://img.shields.io/badge/.NET-%20?style=flat-square&logo=.net&logoColor=white&color=000000)
+![Static Badge](https://img.shields.io/badge/.net-%20?style=flat-square&logo=.NET&logoColor=white&color=000000)
 
 还在初学...
